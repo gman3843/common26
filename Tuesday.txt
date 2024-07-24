@@ -1,3 +1,7 @@
 Hello team greating from G.
 
+<<<<<<< HEAD
 I want to update a file 
+=======
+whatsup
+>>>>>>> 56ea8ab89691a3e4a65762b28c0539b51c373688
