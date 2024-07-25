@@ -1,5 +1,3 @@
-alpha
-This is from mybranch.
-push please
-beta
+Its my day 
+push 
 
