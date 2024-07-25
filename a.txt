@@ -1,2 +1,2 @@
 alpha
-This is from mybranch.
+beta
