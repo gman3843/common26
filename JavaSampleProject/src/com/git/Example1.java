@@ -7,12 +7,8 @@ public class Example1 {
 
 		System.out.println("Hello Friends");
 		System.out.println("Hello Friends");
-		System.out.println("Hello Friends");
-		System.out.println("Hello Friends");
-		System.out.println("Hello Friends");
-		System.out.println("Hello Friends");
-		System.out.println("Hello Friends");
-		System.out.println("Hello Friends");
+	
+	
 		
 	
 	}
